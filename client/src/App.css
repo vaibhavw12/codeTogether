@@ -122,9 +122,8 @@ footer a:hover {
 
 .client {
   display: flex;
-  align-items: center;
   flex-direction: column;
-  font-weight: bold;
+  width: 92px;
 }
 .userName {
   margin-top: 10px;
